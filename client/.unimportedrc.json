@@ -1,0 +1,9 @@
+{
+  "ignoreUnresolved": [],
+  "ignoreUnused": [
+    "react-scripts",
+    "sass",
+    "stripe"
+  ],
+  "ignoreUnimported": []
+}
